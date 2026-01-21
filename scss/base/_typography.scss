@@ -1,0 +1,7 @@
+@use '../abstracts/variables' as v;
+
+body {
+  font-family: v.$font-main;
+  line-height: 1.6;
+  color: #333;
+}
