@@ -1,6 +1,6 @@
 // 1. Herramientas y Variables (No generan CSS)
-@use 'abstracts/variables';
-@use 'abstracts/mixins';
+@use 'abstracts/variable';
+@use 'abstracts/mixin';
 
 // 2. Estilos Base
 @use 'base/reset';
